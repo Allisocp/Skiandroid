@@ -1,0 +1,101 @@
+/*
+       Licensed to the Apache Software Foundation (ASF) under one
+       or more contributor license agreements.  See the NOTICE file
+       distributed with this work for additional information
+       regarding copyright ownership.  The ASF licenses this file
+       to you under the Apache License, Version 2.0 (the
+       "License"); you may not use this file except in compliance
+       with the License.  You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+       Unless required by applicable law or agreed to in writing,
+       software distributed under the License is distributed on an
+       "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+       KIND, either express or implied.  See the License for the
+       specific language governing permissions and limitations
+       under the License.
+*/
+
+/*
+ body {
+	background-color:#99FFCC;
+}
+*/
+a {
+	text-decoration:none;
+	display:block;
+	max-width:100%;
+	max-height:100%;
+}
+ul {
+	list-style-type:none;
+	position:none;	
+	max-width:100%;
+	max-height:100%;
+}
+#first {
+	display:block;
+	background-color:#FF3344;
+	border-color:#66CCFF;
+	max-width:100%;
+	max-height:100%;
+}
+#second {
+	display:block;
+	background-color:#6699CC;
+	border-color:#66CCFF;
+	max-width:100%;
+	max-height:100%;
+}
+#third {
+	display:block;
+	background-color:#CCFFFF;
+	border-color:#66CCFF;
+	max-width:100%;
+	max-height:100%;
+}
+li {
+	font-size:20px;
+	font-family:Tahoma;
+	font-weight:bold;
+	text-align:center;
+	display:inline-block;
+	color:#B8B8B8;
+	padding:5px;
+	border:5px solid #66CCFF;
+	border-radius: 10px 10px;
+	background-color:#CCFFFF;
+	
+}
+p {
+	position:relative;
+}
+img {
+	position:nnone;
+	max-width:100%;
+	max-height:100%;
+}
+#table {
+	border:3px solid black;
+	background-color:#CCFFFF;
+}
+.tnames {
+	text-align:left;
+	height:20px;
+	border:1px solid black;
+}
+/*The class "tnames" stands for name of table attributes to be described*/
+.tdesc {
+	text-align:center;
+	height:20px;
+	width:20px;
+	border:1px solid black;
+}
+/*The class "tdesc" stands for the number and letter describers for each of the "tnames" class attributes*/
+.ttrail_img {
+	text-align:left;
+	height:20px;
+	width:20px;
+}
+/*The class "ttrail_img" stands for the various trial difficulty image attributes*/
